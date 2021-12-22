@@ -1,2 +1,1 @@
-# markovmonopoly
-# varun.github.io
+# My personal website
